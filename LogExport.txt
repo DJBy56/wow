@@ -1,0 +1,12 @@
+[2025-02-23 23:48:24] [Msg] Table Type - SQL script file
+[2025-02-23 23:48:24] [Msg] Getting and Exporting data ...
+[2025-02-23 23:48:24] [Msg] Export table [educational_background]
+[2025-02-23 23:48:24] [Msg] Export to - educational_background
+[2025-02-23 23:48:24] [Err] Cannot create file "C:\Program Files (x86)\PremiumSoft\Navicat Premium\educational_background". Access is denied
+[2025-02-23 23:48:24] [Msg] Export table [employment_history]
+[2025-02-23 23:48:24] [Msg] Export to - employment_history
+[2025-02-23 23:48:24] [Err] Cannot create file "C:\Program Files (x86)\PremiumSoft\Navicat Premium\employment_history". Access is denied
+[2025-02-23 23:48:24] [Msg] Export table [personal_information]
+[2025-02-23 23:48:24] [Msg] Export to - personal_information
+[2025-02-23 23:48:24] [Err] Cannot create file "C:\Program Files (x86)\PremiumSoft\Navicat Premium\personal_information". Access is denied
+[2025-02-23 23:48:24] [Msg] Finished - Unsuccessfully
